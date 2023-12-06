@@ -509,32 +509,29 @@
       "img": "images/london.jpg",
       "attractions":[
         {
-          "one": [
+          "one":
             {
               "place": "Arsenal FC Museum and Stadium Tour",
               "topic": "60-minute tour exploring the iconic stadium with admission to a museum showcasing team memorabilia",
               "des1": "During this one-hour tour, you’ll go behind the scenes at Chelsea FC’s home base, the legendary Stamford Bridge stadium. Accompanied by an expert guide, you’ll visit the dressing rooms, press room, players’ tunnel, dugout area and more. You can also watch exclusive video content along the way.",
               "des2": "Your experience will include admission to the Chelsea FC Museum which you can explore before or after the tour. Here, you’ll find a glittering collection of team trophies.",
               "images": ["images/attraction-images/emirates.jpg", "images/attraction-images/emirates2.jpg", "images/attraction-images/emirates3.jpg", "images/attraction-images/emirates4.jpg", "images/attraction-images/emirates5.jpg", "images/attraction-images/emirates6.jpg", "images/attraction-images/emirates7.jpg"]
-            }
-          ],
-          "two": [
+            },
+          "two": 
             {
               "place": "Admission to the London Eye",
               "topic": "A 30-minute ride on the London Eye to see the city's most famous landmarks",
               "des1": "With this admission ticket, you can hop aboard the iconic London Eye for a 30-minute ride over the city.",
               "des2": "The observation wheel reaches a height of 135 metres, offering you a chance to savour panoramic views of London. You can spot famous city landmarks like Big Ben, Buckingham Palace, St Paul’s Cathedral, Westminster Abbey and Trafalgar Square.",
               "images": ["images/attraction-images/london-eye.jpg", "images/attraction-images/london-eye2.jpg", "images/attraction-images/london-eye3.jpg", "images/attraction-images/london-eye4.jpg", "images/attraction-images/london-eye5.jpg", "images/attraction-images/london-eye6.jpg", "images/attraction-images/london-eye7.jpg"]
-            }
-          ],
-          "three": [
+            },
+          "three": 
             {
               "place": "Tower Bridge of London and Crown Jewels Tour",
               "topic": "Admission to the historic fortress with stories from Yeoman warders and the Crown Jewels",
               "des1": "On this tour, you’ll explore the Tower of London, an imposing fortress dating back to medieval times. The Yeoman Warders – popularly known as beefeaters – will tell you chilling stories of the tower’s history, and you’ll view the sites where executions took place and exotic animals like polar bears were kept. In the White Tower, you can view the Line of Kings exhibit of royal armour through the ages. You’ll also have access to the display of the magnificent Crown Jewels.",
               "images": ["images/attraction-images/tower-bridge.jpg", "images/attraction-images/tower-bridge2.jpg", "images/attraction-images/tower-bridge3.jpg", "images/attraction-images/tower-bridge4.jpg", "images/attraction-images/tower-bridge5.jpg"]
             }
-          ] 
         }
       ],
       "price": "360,000.00",
