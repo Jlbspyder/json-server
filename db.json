@@ -430,7 +430,7 @@
   ]
     }
   ],
-   "data":  [
+  "data":  [
     {
       "id":"1",
       "title": "Montmartre, France",
@@ -494,7 +494,7 @@
               "des3": "Other attractions you will see include Topkapi Palace, Maiden Tower and Galata Tower.",
               "images": ["images/attraction-images/bosphorus.jpg", "images/attraction-images/bosphorus2.jpg", "images/attraction-images/bosphorus3.jpg", "images/attraction-images/bosphorus4.jpg", "images/attraction-images/bosphorus5.jpg", "images/attraction-images/bosphorus6.jpg", "images/attraction-images/bosphorus7.jpg"]
             }
-        },
+        }
       ],
       "price": "600,000.00",
       "rating": "5/5"
@@ -507,7 +507,7 @@
       "img": "images/london.jpg",
       "attractions":[
         {
-          "one":
+          "one": 
             {
               "place": "Arsenal FC Museum and Stadium Tour",
               "topic": "60-minute tour exploring the iconic stadium with admission to a museum showcasing team memorabilia",
@@ -529,7 +529,7 @@
               "topic": "Admission to the historic fortress with stories from Yeoman warders and the Crown Jewels",
               "des1": "On this tour, you’ll explore the Tower of London, an imposing fortress dating back to medieval times. The Yeoman Warders – popularly known as beefeaters – will tell you chilling stories of the tower’s history, and you’ll view the sites where executions took place and exotic animals like polar bears were kept. In the White Tower, you can view the Line of Kings exhibit of royal armour through the ages. You’ll also have access to the display of the magnificent Crown Jewels.",
               "images": ["images/attraction-images/tower-bridge.jpg", "images/attraction-images/tower-bridge2.jpg", "images/attraction-images/tower-bridge3.jpg", "images/attraction-images/tower-bridge4.jpg", "images/attraction-images/tower-bridge5.jpg"]
-            }
+            } 
         }
       ],
       "price": "360,000.00",
