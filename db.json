@@ -432,31 +432,28 @@
   ],
    "data":  [
     {
-    id: 1,
-    title: "Montmartre, France",
-    name: "London",
-    description: "Visiting the best tourist areas chosen by the audience",
-    img: "images/montmartre.jpg",
-    price: "450,000.00",
-    rating: "4/5"
-  },
-  {
-    id: 2,
-    title: "Istanbul, Turkey",
-    name: "Istanbul",
-    description: "One of our best-selling tours to Turkey and visiting its region...",
-    img: "images/turkey.jpg",
-    price: "600,000.00",
-    rating: "5/5"
-  },
-  {
-    id: 3,
-    title: "London, UK",
-    name: "London",
-    description: "London is one of the most beautiful places to visit that...",
-    img: "images/london.jpg",
-    price: "360,000.00",
-    rating: "5/5"
-  }
+      "id":"1",
+      "title": "Montmartre, France",
+      "description": "Visiting the best tourist areas chosen by the audience",
+      "img": "images/montmartre.jpg",
+      "price": "450,000.00",
+      "rating": "4/5"
+    },
+    {
+      "id":"2",
+      "title": "Istanbul, Turkey",
+      "description": "One of our best-selling tours to Turkey and visiting its region...",
+      "img": "images/turkey.jpg",
+      "price": "600,000.00",
+      "rating": "5/5"
+    },
+    {
+      "id":"3",
+      "title": "London, UK",
+      "description": "London is one of the most beautiful places to visit that...",
+      "img": "images/london.jpg",
+      "price": "360,000.00",
+      "rating": "5/5"
+    }
   ]
 }
