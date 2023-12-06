@@ -494,8 +494,8 @@
               "des3": "Other attractions you will see include Topkapi Palace, Maiden Tower and Galata Tower.",
               "images": ["images/attraction-images/bosphorus.jpg", "images/attraction-images/bosphorus2.jpg", "images/attraction-images/bosphorus3.jpg", "images/attraction-images/bosphorus4.jpg", "images/attraction-images/bosphorus5.jpg", "images/attraction-images/bosphorus6.jpg", "images/attraction-images/bosphorus7.jpg"]
             }
-          ]
         },
+      ],
       "price": "600,000.00",
       "rating": "5/5"
     },
