@@ -434,9 +434,39 @@
     {
       "id":"1",
       "title": "Montmartre, France",
-      "name": "Montmartre",
+      "name": "France",
       "description": "Visiting the best tourist areas chosen by the audience",
       "img": "images/montmartre.jpg",
+      "attractions":[
+        {
+          "one": 
+            {
+              "place": "Louvre Museum",
+              "topic": "Admission to the art museum where you can find celebrated works like the Mona Lisa",
+              "des1": "With skip-the-line admission to the Louvre, you can beat the crowds and maximise your time at one of the world's most famous galleries. You'll enter through the iconic Louvre pyramid and explore the museum at your own pace.",
+              "des2": "Inside, you'll find around 40,000 paintings, sculptures, objects d'art and historical artefacts including famous masterpieces, the most noteworthy of which is Da Vinci's Mona Lisa.",
+              "images": ["images/attraction-images/louvre.jpg", "images/attraction-images/louvre2.jpg", "images/attraction-images/louvre3.jpg", "images/attraction-images/louvre4.jpg", "images/attraction-images/louvre5.jpg", "images/attraction-images/louvre6.jpg", "images/attraction-images/louvre7.jpg"]
+            },
+          "two": 
+            {
+              "place": "Admission to Disneyland Paris",
+              "topic": "A ticket to experience the best of one or two Disney® theme parks in Paris",
+              "des1": "With this admission ticket, you'll have the opportunity to visit one or both Disney® Parks in Paris – Disneyland® Park and Walt Disney Studios® Park. You'll also have the option to hop between both theme parks as many times as you like.",
+              "des2": "At Disneyland® Park, you can explore five themed areas – Main Street U.S.A., Adventureland, Fantasyland, Discoveryland and Frontierland. Your ticket will allow you to hop on rides like Pirates of the Caribbean, Mad Hatters Tea Cups and more. You can even meet your favourite Disney® characters at this park.",
+              "des3": "Walt Disney Studios® Park will give you a chance to discover thrilling attractions and entertaining shows from MARVEL, Pixar and the world of Disney. You'll be able to experience some memorable moments from films like Toy Story, Finding Nemo and Ratatouille through various rides at this theme park.",
+              "images": ["images/attraction-images/disneyland.jpg", "images/attraction-images/disneyland2.jpg", "images/attraction-images/disneyland3.jpg", "images/attraction-images/disneyland4.jpg", "images/attraction-images/disneyland5.jpg", "images/attraction-images/disneyland6.jpg", "images/attraction-images/disneyland7.jpg"]
+            },
+          "three": 
+            {
+              "place": "Seine River Cruise",
+              "topic": "Paris Seine River Gourmet Dinner Cruise with Champagne",
+              "des1": "Treat yourself with double luxury : the incredible sights of Paris, paired with fine French cuisine and champagne. Leisurely seated and surrounded by panoramic windows, you’ll glide past iconic landmarks such as the Eiffel Tower and Notre Dame along the romantic river Seine, with an unforgettable 3-course gourmet meal on the menu.",
+              "des2": "Get a taste of the City of Love with a champagne dinner at this unique dining venue. Romance package, A spectacular gastronomic experience awaits you, courtesy of our Chef and his crew. The menu consists of starter, choice of main course, and delicious desserts and a glass (or 1/2 bottle ) of Champagne.",
+              "des3": "For late late dinner only the choice will also be for starter and dessert. Boarding will begin at 6.15 pm (or at 8:45pm) the foot of the Orsay Museum.",
+              "images": ["images/attraction-images/seine-river.jpg", "images/attraction-images/seine-river2.jpg", "images/attraction-images/seine-river3.jpg", "images/attraction-images/seine-river4.jpg", "images/attraction-images/seine-river5.jpg", "images/attraction-images/seine-river6.jpg", "images/attraction-images/seine-river7.jpg"]
+            }
+        }
+      ],
       "price": "450,000.00",
       "rating": "4/5"
     },
@@ -446,6 +476,28 @@
       "name": "Istanbul",
       "description": "One of our best-selling tours to Turkey and visiting its region...",
       "img": "images/turkey.jpg",
+      "attractions":[
+        {
+          "one": [
+            {
+              "place": "Basilica Cistern",
+              "topic": "Basilica Cistern Skip-the-Line Guided Tour",
+              "des1": "Explore the ancient cistern with a professional tour guide with skip the ticket line without waiting. The cistern has an unusual history that attracts travelers across the globe to experience it in real. Who would not want to walk on raised wooden platforms to feel water dripping from the arched ceilings giving the essence of historical architecture? If you have a passion for photography, you will love the medusa-head column bases.",
+              "images": ["images/attraction-images/basilica.jpg", "images/attraction-images/basilica2.jpg", "images/attraction-images/basilica3.jpg", "images/attraction-images/basilica4.jpg", "images/attraction-images/basilica5.jpg", "images/attraction-images/basilica6.jpg", "images/attraction-images/basilica7.jpg"]
+            }
+          ],
+          "two": [
+            {
+              "place": "Bosphorus and Golden Horn Cruise",
+              "topic": "A sightseeing cruise through the Golden Horn waterway to see the city sights from the water",
+              "des1": "On this leisurely cruise, you’ll have the opportunity to sail through Golden Horn and along the Bosphorus European shore.",
+              "des2": "You’ll experience the city from the water and be able to take in famous landmarks such as the Dolmabahce Palace, Ortaköy Mosque, Rumeli Fortress and the iconic Bosphorus Bridge.",
+              "des3": "Other attractions you will see include Topkapi Palace, Maiden Tower and Galata Tower.",
+              "images": ["images/attraction-images/bosphorus.jpg", "images/attraction-images/bosphorus2.jpg", "images/attraction-images/bosphorus3.jpg", "images/attraction-images/bosphorus4.jpg", "images/attraction-images/bosphorus5.jpg", "images/attraction-images/bosphorus6.jpg", "images/attraction-images/bosphorus7.jpg"]
+            }
+          ]
+        }
+      ],
       "price": "600,000.00",
       "rating": "5/5"
     },
@@ -455,6 +507,36 @@
       "name": "London",
       "description": "London is one of the most beautiful places to visit that...",
       "img": "images/london.jpg",
+      "attractions":[
+        {
+          "one": [
+            {
+              "place": "Arsenal FC Museum and Stadium Tour",
+              "topic": "60-minute tour exploring the iconic stadium with admission to a museum showcasing team memorabilia",
+              "des1": "During this one-hour tour, you’ll go behind the scenes at Chelsea FC’s home base, the legendary Stamford Bridge stadium. Accompanied by an expert guide, you’ll visit the dressing rooms, press room, players’ tunnel, dugout area and more. You can also watch exclusive video content along the way.",
+              "des2": "Your experience will include admission to the Chelsea FC Museum which you can explore before or after the tour. Here, you’ll find a glittering collection of team trophies.",
+              "images": ["images/attraction-images/emirates.jpg", "images/attraction-images/emirates2.jpg", "images/attraction-images/emirates3.jpg", "images/attraction-images/emirates4.jpg", "images/attraction-images/emirates5.jpg", "images/attraction-images/emirates6.jpg", "images/attraction-images/emirates7.jpg"]
+            }
+          ],
+          "two": [
+            {
+              "place": "Admission to the London Eye",
+              "topic": "A 30-minute ride on the London Eye to see the city's most famous landmarks",
+              "des1": "With this admission ticket, you can hop aboard the iconic London Eye for a 30-minute ride over the city.",
+              "des2": "The observation wheel reaches a height of 135 metres, offering you a chance to savour panoramic views of London. You can spot famous city landmarks like Big Ben, Buckingham Palace, St Paul’s Cathedral, Westminster Abbey and Trafalgar Square.",
+              "images": ["images/attraction-images/london-eye.jpg", "images/attraction-images/london-eye2.jpg", "images/attraction-images/london-eye3.jpg", "images/attraction-images/london-eye4.jpg", "images/attraction-images/london-eye5.jpg", "images/attraction-images/london-eye6.jpg", "images/attraction-images/london-eye7.jpg"]
+            }
+          ],
+          "three": [
+            {
+              "place": "Tower Bridge of London and Crown Jewels Tour",
+              "topic": "Admission to the historic fortress with stories from Yeoman warders and the Crown Jewels",
+              "des1": "On this tour, you’ll explore the Tower of London, an imposing fortress dating back to medieval times. The Yeoman Warders – popularly known as beefeaters – will tell you chilling stories of the tower’s history, and you’ll view the sites where executions took place and exotic animals like polar bears were kept. In the White Tower, you can view the Line of Kings exhibit of royal armour through the ages. You’ll also have access to the display of the magnificent Crown Jewels.",
+              "images": ["images/attraction-images/tower-bridge.jpg", "images/attraction-images/tower-bridge2.jpg", "images/attraction-images/tower-bridge3.jpg", "images/attraction-images/tower-bridge4.jpg", "images/attraction-images/tower-bridge5.jpg"]
+            }
+          ] 
+        }
+      ],
       "price": "360,000.00",
       "rating": "5/5"
     }
