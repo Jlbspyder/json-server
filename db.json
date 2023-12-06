@@ -576,28 +576,28 @@
           "des1": "On this leisurely cruise, you’ll have the opportunity to sail through Golden Horn and along the Bosphorus European shore.",
           "des2": "You’ll experience the city from the water and be able to take in famous landmarks such as the Dolmabahce Palace, Ortaköy Mosque, Rumeli Fortress and the iconic Bosphorus Bridge.",
           "des3": "Other attractions you will see include Topkapi Palace, Maiden Tower and Galata Tower.",
-          "pix": "/images/attractions-images/bosphorus.jpg",
+          "pix": "/images/attractions-images/bosphorus-cruise.jpg",
           "images": [
             {
-              "img": "/images/attractions-images/bosphorus.jpg"
+              "img": "/images/attractions-images/bosphorus-cruise.jpg"
             },
             {
-              "img": "/images/attractions-images/bosphorus2.jpg"
+              "img": "/images/attractions-images/bosphorus-cruise2.jpg"
             },
             {
-              "img": "/images/attractions-images/bosphorus3.jpg"
+              "img": "/images/attractions-images/bosphorus-cruise3.jpg"
             },
             {
-              "img": "/images/attractions-images/bosphorus4.jpg"
+              "img": "/images/attractions-images/bosphorus-cruise4.jpg"
             },
             {
-              "img": "/images/attractions-images/bosphorus5.jpg"
+              "img": "/images/attractions-images/bosphorus-cruise5.jpg"
             },
             {
-              "img": "/images/attractions-images/bosphorus6.jpg"
+              "img": "/images/attractions-images/bosphorus-cruise6.jpg"
             },
             {
-              "img": "/images/attractions-images/bosphorus7.jpg"
+              "img": "/images/attractions-images/bosphorus-cruise7.jpg"
             }
           ]
         }
