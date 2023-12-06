@@ -434,7 +434,7 @@
     {
       "id":"1",
       "title": "Montmartre, France",
-      "name": "Montmartre,
+      "name": "Montmartre",
       "description": "Visiting the best tourist areas chosen by the audience",
       "img": "images/montmartre.jpg",
       "price": "450,000.00",
@@ -452,7 +452,7 @@
     {
       "id":"3",
       "title": "London, UK",
-      "name": "London,
+      "name": "London",
       "description": "London is one of the most beautiful places to visit that...",
       "img": "images/london.jpg",
       "price": "360,000.00",
