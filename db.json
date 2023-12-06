@@ -478,15 +478,14 @@
       "img": "images/turkey.jpg",
       "attractions":[
         {
-          "one": [
+          "one": 
             {
               "place": "Basilica Cistern",
               "topic": "Basilica Cistern Skip-the-Line Guided Tour",
               "des1": "Explore the ancient cistern with a professional tour guide with skip the ticket line without waiting. The cistern has an unusual history that attracts travelers across the globe to experience it in real. Who would not want to walk on raised wooden platforms to feel water dripping from the arched ceilings giving the essence of historical architecture? If you have a passion for photography, you will love the medusa-head column bases.",
               "images": ["images/attraction-images/basilica.jpg", "images/attraction-images/basilica2.jpg", "images/attraction-images/basilica3.jpg", "images/attraction-images/basilica4.jpg", "images/attraction-images/basilica5.jpg", "images/attraction-images/basilica6.jpg", "images/attraction-images/basilica7.jpg"]
-            }
-          ],
-          "two": [
+            },
+          "two": 
             {
               "place": "Bosphorus and Golden Horn Cruise",
               "topic": "A sightseeing cruise through the Golden Horn waterway to see the city sights from the water",
@@ -496,8 +495,7 @@
               "images": ["images/attraction-images/bosphorus.jpg", "images/attraction-images/bosphorus2.jpg", "images/attraction-images/bosphorus3.jpg", "images/attraction-images/bosphorus4.jpg", "images/attraction-images/bosphorus5.jpg", "images/attraction-images/bosphorus6.jpg", "images/attraction-images/bosphorus7.jpg"]
             }
           ]
-        }
-      ],
+        },
       "price": "600,000.00",
       "rating": "5/5"
     },
