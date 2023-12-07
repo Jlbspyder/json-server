@@ -680,7 +680,7 @@
           ]
         },
         {
-          "place": "Tower Bridge of London and Crown Jewels Tour",
+          "place": "Tower Bridge of London Tour",
           "price": 280,
           "topic": "Admission to the historic fortress with stories from Yeoman warders and the Crown Jewels",
           "des1": "On this tour, you’ll explore the Tower of London, an imposing fortress dating back to medieval times. The Yeoman Warders – popularly known as beefeaters – will tell you chilling stories of the tower’s history, and you’ll view the sites where executions took place and exotic animals like polar bears were kept. In the White Tower, you can view the Line of Kings exhibit of royal armour through the ages. You’ll also have access to the display of the magnificent Crown Jewels.",
@@ -755,7 +755,7 @@
       "end": "Eiffel Tower, 5 Avenue, Paris, 75007",
       "info": "Please note that the first floor is accessible by stairs and is not accessible by elevator. Please bring your ticket with you to the attraction. Be aware that operators may cancel for unforeseen reasons. You need to be 18 years or older to book or be accompanied by an adult. Operated by BarcaForToursits",
       "location": "Paris",
-      "rating": "3.7 / 5 Good(422 reviews)",
+      "rating": "3.7 / 5 Good (422 reviews)",
       "price": 100
     },
     {
@@ -842,7 +842,7 @@
       "point": "Aquarium de Paris - Cinéaqua, 5 Avenue Albert de Mun, Paris, 75016",
       "info": "Please note that the ticket is only available for the date and time selected. Please bring your ticket with you to the attraction. Be aware that operators may cancel for unforeseen reasons. You need to be 18 years or older to book or be accompanied by an adult. Operated by AQUARIUM DE PARIS",
       "location": "5 Avenue Albert de Mun, Paris, 75016",
-      "rating": "4.2 / 5 Very good(214 reviews)",
+      "rating": "4.2 / 5 Very good (214 reviews)",
       "price": 100
     }
   ]
