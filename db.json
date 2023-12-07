@@ -714,6 +714,10 @@
       "title": "Eiffel Tower, Paris France",
       "topic": "Ticket to the Paris landmark, with an optional guided city tour",
       "img": "/images/eiffel-tower.jpg",
+      "img2":  "/images/explore/eiffel-tower1.jpg",
+      "img3":  "/images/explore/eiffel-tower2.jpg",
+      "img4":  "/images/explore/eiffel-tower3.jpg",
+      "img5":  "/images/explore/eiffel-tower4.jpg",
       "images": [
         {
           "img":  "/images/explore/eiffel-tower1.jpg"
@@ -759,6 +763,10 @@
       "title": "L'Arc de Triomphe de l'Etoile",
       "topic": "A ticket to visit the famous historical landmark and enjoy panoramic views",
       "img": "/images/arc.jpg",
+      "img2": "/images/explore/arc.jpg",
+      "img3": "/images/explore/arc2.jpg",
+      "img4": "/images/explore/arc3.jpg",
+      "img5": "/images/explore/arc4.jpg",
       "images": [
         {
           "img": "/images/explore/arc.jpg"
@@ -800,6 +808,10 @@
       "title": "Aquarium of Paris",
       "topic": "A ticket to explore the Aquarium of Paris",
       "img": "/images/explore/aquarium.jpg",
+      "img2": "/images/explore/aquarium2.jpg",
+      "img3": "/images/explore/aquarium3.jpg",
+      "img4": "/images/explore/aquarium4.jpg",
+      "img5": "/images/explore/aquarium5.jpg",
       "images": [
         {
           "img": "/images/explore/aquarium.jpg"
