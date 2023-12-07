@@ -531,7 +531,7 @@
           ]
         }
       ],
-      "price": "450,000.00",
+      "price": 150,
       "rating": "4/5"
     },
     {
@@ -602,7 +602,7 @@
           ]
         }
       ],
-      "price": "600,000.00",
+      "price": 200,
       "rating": "5/5"
     },
     {
@@ -696,8 +696,134 @@
           ]
         }
       ],
-      "price": "360,000.00",
+      "price": 300,
       "rating": "5/5"
+    }
+  ],
+   "explore": [
+    {
+      "id": 1,
+      "title": "Eiffel Tower, Paris France",
+      "topic": "Ticket to the Paris landmark, with an optional guided city tour",
+      "img": "images/eiffel-tower.jpg",
+      "images": [
+        {
+          "img":  "images/explore/eiffel-tower1.jpg"
+        },
+        {
+          "img":  "images/explore/eiffel-tower2.jpg"
+        },
+        {
+          "img":  "images/explore/eiffel-tower3.jpg"
+        },
+        {
+          "img":  "images/explore/eiffel-tower4.jpg"
+        },
+        {
+          "img":  "images/explore/eiffel-tower5.jpg"
+        },
+        {
+          "img":  "images/explore/eiffel-tower6.jpg"
+        },
+        {
+          "img":  "images/explore/eiffel-tower7.jpg"
+        },
+        {
+          "img":  "images/explore/eiffel-tower8.jpg"
+        }
+      ],
+      "des1": "With this ticket to the Eiffel Tower, you’ll gain admission to the second floor of one of the must-visit destinations in Paris. You’ll also have a variety of options to suit your preferences, including getting a guided tour of the landmark.",
+      "des2": "During your visit up the Eiffel Tower through the stairs, you’ll get the opportunity to take in breathtaking views over Paris. From this vantage point, you’ll see other attractions in the French capital for a memorable visit to the architectural marvel.",
+      "option1": "Admission to the Eiffel Tower’s 2nd floor",
+      "option2": "Guide services (if you selected this option)",
+      "accessibility": "Public transport links nearby",
+      "safety": "Suitable for all fitness levels",
+      "duration": "1 hour - 2 hours",
+      "point": "Eiffel Tower, 5 Avenue, Paris, 75007",
+      "end": "Eiffel Tower, 5 Avenue, Paris, 75007",
+      "info": "Please note that the first floor is accessible by stairs and is not accessible by elevator. Please bring your ticket with you to the attraction. Be aware that operators may cancel for unforeseen reasons. You need to be 18 years or older to book or be accompanied by an adult. Operated by BarcaForToursits",
+      "location": "Paris",
+      "rating": "3.7 / 5 Good(422 reviews)",
+      "price": 100
+    },
+    {
+      "id": 2,
+      "title": "L'Arc de Triomphe de l'Etoile",
+      "topic": "A ticket to visit the famous historical landmark and enjoy panoramic views",
+      "img": "images/arc.jpg",
+      "images": [
+        {
+          "img": "images/explore/arc.jpg"
+        },
+        {
+          "img": "images/explore/arc2.jpg"
+        },
+        {
+          "img": "images/explore/arc3.jpg"
+        },
+        {
+          "img": "images/explore/arc4.jpg"
+        },
+        {
+          "img": "images/explore/arc5.jpg"
+        },
+        {
+          "img": "images/explore/arc6.jpg"
+        },
+        {
+          "img": "images/explore/arc7.jpg"
+        },
+        {
+          "img": "images/explore/arc8.jpg"
+        } 
+      ],
+      "des1": "With this ticket, valid for one year, you'll gain access to the Arc de Triomphe. You'll be able to skip long lines and visit the renowned landmark at your convenience.",
+      "des2": "You'll get the opportunity to enjoy the panoramic views from the monument and see such attractions as the Eiffel Tower, Montparnasse Tower and Montmartre from a new perspective.",
+      "accessibility": "Public transport available nearby",
+      "duration": "October–March: daily, 10:00–22:30 and April–September: daily, 10:00–23:00.",
+      "point": "Arc de Triomphe, Place Charles de Gaulle, Paris",
+      "info": "Please note that all visitors are required to undergo a security check before entering the Arc de Triomphe.",
+      "location": " Place Charles de Gaulle, Paris",
+      "rating": "4.6 / 5 Fabulous(239 reviews)",
+      "price": 150
+    },
+    {
+      "id": 3,
+      "title": "Aquarium of Paris",
+      "topic": "A ticket to explore the Aquarium of Paris",
+      "img": "images/explore/aquarium.jpg",
+      "images": [
+        {
+          "img": "images/explore/aquarium.jpg"
+        },
+        {
+          "img": "images/explore/aquarium2.jpg"
+        },
+        {
+          "img": "images/explore/aquarium3.jpg"
+        },
+        {
+          "img": "images/explore/aquarium4.jpg"
+        },
+        {
+          "img": "images/explore/aquarium5.jpg"
+        },
+        {
+          "img": "images/explore/aquarium6.jpg"
+        },
+        {
+          "img": "images/explore/aquarium7.jpg"
+        }
+      ],
+      "des1": "The Aquarium of Paris features sixty tanks where you can see over 7,500 fish and invertebrates. It houses one of the biggest shark tanks of France where you can see up to 50 different sharks swimming in 3 million litres of water. The aquarium is also home to 2,500 jellyfish.",
+      "des2": "If you want to take the experience to another level, you can choose to visit the aquarium on a Saturday evening. If you come between 19:00 and 22:00, you will receive a glass of champagne as a welcome drink and you can explore the sea world come to life at night.",
+      "accessibility": "Public transport available nearby. There is also hotel pick-up",
+      "duration": "October–March: daily, 10:00–22:30 and April–September: daily, 10:00–23:00.",
+      "point": "Aquarium de Paris - Cinéaqua, 5 Avenue Albert de Mun, Paris, 75016",
+      "info": "Please note that the ticket is only available for the date and time selected. Please bring your ticket with you to the attraction. Be aware that operators may cancel for unforeseen reasons. You need to be 18 years or older to book or be accompanied by an adult. Operated by AQUARIUM DE PARIS",
+      "location": "5 Avenue Albert de Mun, Paris, 75016",
+      "rating": "4.2 / 5 Very good(214 reviews)",
+      "price": 100
     }
   ]
 }
