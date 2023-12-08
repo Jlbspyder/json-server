@@ -435,6 +435,13 @@
       "id": "1",
       "title": "Montmartre, France",
       "name": "France",
+      "tour": 454,
+      "nature": 350,
+      "museum": 263,
+      "entertainment": 168,
+      "food": 75,
+      "workshop": 26,
+      "rental": 3,
       "description": "Visiting the best tourist areas chosen by the audience",
       "img": "images/montmartre.jpg",
       "attractions": [
@@ -541,6 +548,13 @@
       "id": "2",
       "title": "Istanbul, Turkey",
       "name": "Istanbul",
+       "tour": 354,
+      "nature": 300,
+      "museum": 163,
+      "entertainment": 108,
+      "food": 105,
+      "workshop": 56,
+      "rental": 13,
       "description": "One of our best-selling tours to Turkey and visiting its region...",
       "img": "images/turkey.jpg",
       "attractions": [
@@ -614,6 +628,13 @@
       "id": "3",
       "title": "London, UK",
       "name": "London",
+       "tour": 531,
+      "nature": 315,
+      "museum": 269,
+      "entertainment": 131,
+      "food": 30,
+      "workshop": 7,
+      "rental": 7,
       "description": "London is one of the most beautiful places to visit that...",
       "img": "images/london.jpg",
       "attractions": [
@@ -778,7 +799,7 @@
           "img": "/images/explore/arc3.jpg"
         },
         {
-          "img": "images/explore/arc4.jpg"
+          "img": "/images/explore/arc4.jpg"
         },
         {
           "img": "/images/explore/arc5.jpg"
