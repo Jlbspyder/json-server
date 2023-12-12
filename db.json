@@ -448,6 +448,7 @@
         {
           "place": "Louvre Museum",
           "price": 280,
+          "review": "4.5 / 5 (1000 reviews)", 
           "topic": "Admission to the art museum where you can find celebrated works like the Mona Lisa",
           "des1": "With skip-the-line admission to the Louvre, you can beat the crowds and maximise your time at one of the world's most famous galleries. You'll enter through the iconic Louvre pyramid and explore the museum at your own pace.",
           "des2": "Inside, you'll find around 40,000 paintings, sculptures, objects d'art and historical artefacts including famous masterpieces, the most noteworthy of which is Da Vinci's Mona Lisa.",
@@ -479,6 +480,7 @@
         {
           "place": "Admission to Disneyland Paris",
           "price": 200,
+          "review": "4.8 / 5 (1500 reviews)", 
           "topic": "A ticket to experience the best of one or two Disney® theme parks in Paris",
           "des1": "With this admission ticket, you'll have the opportunity to visit one or both Disney® Parks in Paris – Disneyland® Park and Walt Disney Studios® Park. You'll also have the option to hop between both theme parks as many times as you like.",
           "des2": "At Disneyland® Park, you can explore five themed areas – Main Street U.S.A., Adventureland, Fantasyland, Discoveryland and Frontierland. Your ticket will allow you to hop on rides like Pirates of the Caribbean, Mad Hatters Tea Cups and more. You can even meet your favourite Disney® characters at this park.",
@@ -511,6 +513,7 @@
         {
           "place": "Seine River Cruise",
           "price": 100,
+          "review": "3.5 / 5 (900 reviews)", 
           "topic": "Paris Seine River Gourmet Dinner Cruise with Champagne",
           "des1": "Treat yourself with double luxury : the incredible sights of Paris, paired with fine French cuisine and champagne. Leisurely seated and surrounded by panoramic windows, you’ll glide past iconic landmarks such as the Eiffel Tower and Notre Dame along the romantic river Seine, with an unforgettable 3-course gourmet meal on the menu.",
           "des2": "Get a taste of the City of Love with a champagne dinner at this unique dining venue. Romance package, A spectacular gastronomic experience awaits you, courtesy of our Chef and his crew. The menu consists of starter, choice of main course, and delicious desserts and a glass (or 1/2 bottle ) of Champagne.",
@@ -542,7 +545,7 @@
         }
       ],
       "price": 100,
-      "rating": "4/5"
+      "rating": "4.3 / 5"
     },
     {
       "id": "2",
@@ -561,6 +564,7 @@
         {
           "place": "Basilica Cistern",
           "price": 200,
+          "review": "4.5 / 5 (1800 reviews)", 
           "topic": "Basilica Cistern Skip-the-Line Guided Tour",
           "des1": "Explore the ancient cistern with a professional tour guide with skip the ticket line without waiting. The cistern has an unusual history that attracts travelers across the globe to experience it in real. Who would not want to walk on raised wooden platforms to feel water dripping from the arched ceilings giving the essence of historical architecture? If you have a passion for photography, you will love the medusa-head column bases.",
           "pix": "/images/attractions-images/basilica.jpg",
@@ -591,6 +595,7 @@
         {
           "place": "Bosphorus and Golden Horn Cruise",
           "price": 150,
+          "review": "3.8 / 5 (1200 reviews)", 
           "topic": "A sightseeing cruise through the Golden Horn waterway to see the city sights from the water",
           "des1": "On this leisurely cruise, you’ll have the opportunity to sail through Golden Horn and along the Bosphorus European shore.",
           "des2": "You’ll experience the city from the water and be able to take in famous landmarks such as the Dolmabahce Palace, Ortaköy Mosque, Rumeli Fortress and the iconic Bosphorus Bridge.",
@@ -619,10 +624,41 @@
               "img": "/images/attractions-images/bosphorus-cruise7.jpg"
             }
           ]
+        },
+        {
+          "place": "Cappadocia Hot Air Balloon Ride / Turquaz Flight",
+          "price": 170,
+          "review": "5 / 5 (1279 reviews)", 
+          "topic": "Fly with the most beautiful hot air balloon operator in Cappadocia",
+          "des1": "The natural wonders of Cappadocia are even more impressive when viewed from the air and a hot air balloon flight is an unforgettable experience. On this tour, take to the skies for an hour-long flight with Turquaz Balloons, and enjoy a more intimate experience with smaller baskets and fewer passengers per balloon. Watch the sunrise as you float over the Cappadocian valleys, then celebrate your safe landing with a glass of Champagne. Read more about Cappadocia Hot Air Balloon Ride / Turquaz Flight - https://www.viator.com/tours/Goreme/Hot-Air-Balloon-Flight/d23271-218769P1?mcid=56757",
+          "des2": "Spectacular views over Cappadocia on a sunrise hot air balloon flight and Smaller baskets with no more than 20 passengers on-board. ",
+          "des3": "It also includes a light breakfast and Champagne toast on landing and a hassle-free pickup and drop-off from your Goreme hotel.",
+          "pix": "/images/attractions-images/balloon5.jpg",
+          "images": [
+            {
+              "img": "/images/attractions-images/balloon.jpg"
+            },
+            {
+              "img": "/images/attractions-images/balloon2.jpg"
+            },
+            {
+              "img": "/images/attractions-images/balloon3.jpg"
+            },
+            {
+              "img": "/images/attractions-images/balloon4.jpg"
+            },
+            {
+              "img": "/images/attractions-images/balloon6.jpg"
+            },
+            {
+              "img": "/images/attractions-images/balloon7.jpg"
+            },
+            {
+              "img": "/images/attractions-images/balloon8.jpg"
+            }
+          ]
         }
-      ],
-      "price": 150,
-      "rating": "5/5"
+      ]
     },
     {
       "id": "3",
@@ -641,6 +677,7 @@
         {
           "place": "Arsenal FC Museum and Stadium Tour",
           "price": 300,
+          "review": "4.9 / 5 (3000 reviews)", 
           "topic": "60-minute tour exploring the iconic stadium with admission to a museum showcasing team memorabilia",
           "des1": "During this one-hour tour, you’ll go behind the scenes at Chelsea FC’s home base, the legendary Stamford Bridge stadium. Accompanied by an expert guide, you’ll visit the dressing rooms, press room, players’ tunnel, dugout area and more. You can also watch exclusive video content along the way.",
           "des2": "Your experience will include admission to the Chelsea FC Museum which you can explore before or after the tour. Here, you’ll find a glittering collection of team trophies.",
@@ -672,6 +709,7 @@
         {
           "place": "Admission to the London Eye",
           "price": 250,
+          "review": "4.5 / 5 (1200 reviews)", 
           "topic": "A 30-minute ride on the London Eye to see the city's most famous landmarks",
           "des1": "With this admission ticket, you can hop aboard the iconic London Eye for a 30-minute ride over the city.",
           "des2": "The observation wheel reaches a height of 135 metres, offering you a chance to savour panoramic views of London. You can spot famous city landmarks like Big Ben, Buckingham Palace, St Paul’s Cathedral, Westminster Abbey and Trafalgar Square.",
@@ -703,6 +741,7 @@
         {
           "place": "Tower Bridge of London Tour",
           "price": 280,
+          "review": "4 / 5 (1250 reviews)", 
           "topic": "Admission to the historic fortress with stories from Yeoman warders and the Crown Jewels",
           "des1": "On this tour, you’ll explore the Tower of London, an imposing fortress dating back to medieval times. The Yeoman Warders – popularly known as beefeaters – will tell you chilling stories of the tower’s history, and you’ll view the sites where executions took place and exotic animals like polar bears were kept. In the White Tower, you can view the Line of Kings exhibit of royal armour through the ages. You’ll also have access to the display of the magnificent Crown Jewels.",
           "pix": "/images/attractions-images/tower-bridge.jpg",
@@ -724,9 +763,7 @@
             }
           ]
         }
-      ],
-      "price": 250,
-      "rating": "5/5"
+      ]
     }
   ],
    "explore": [
@@ -821,7 +858,7 @@
       "point": "Arc de Triomphe, Place Charles de Gaulle, Paris",
       "info": "Please note that all visitors are required to undergo a security check before entering the Arc de Triomphe.",
       "location": " Place Charles de Gaulle, Paris",
-      "rating": "4.6 / 5 Fabulous(239 reviews)",
+      "rating": "4.6 / 5 Fabulous (239 reviews)",
       "price": 150
     },
     {
