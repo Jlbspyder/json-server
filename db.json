@@ -448,6 +448,7 @@
       "img": "images/montmartre.jpg",
       "attractions": [
         {
+          "id": 1,
           "place": "Louvre Museum",
           "price": 280,
           "review": "4.5 / 5 (1000 reviews)",
@@ -481,6 +482,7 @@
           ]
         },
         {
+          "id": 2,
           "place": "Admission to Disneyland Paris",
           "price": 200,
           "review": "4.8 / 5 (1500 reviews)",
@@ -515,6 +517,7 @@
           ]
         },
         {
+          "id": 3,
           "place": "Seine River Cruise",
           "price": 100,
           "review": "3.5 / 5 (900 reviews)", 
@@ -567,6 +570,7 @@
       "img": "images/turkey.jpg",
       "attractions": [
         {
+          "id": 1,
           "place": "Basilica Cistern",
           "price": 200,
           "review": "4.5 / 5 (1800 reviews)", 
@@ -599,6 +603,7 @@
           ]
         },
         {
+          "id": 2,
           "place": "Bosphorus and Golden Horn Cruise",
           "price": 150,
           "review": "3.8 / 5 (1200 reviews)", 
@@ -633,6 +638,7 @@
           ]
         },
         {
+          "id": 3,
           "place": "Cappadocia Hot Air Balloon Ride / Turquaz Flight",
           "price": 170,
           "review": "5 / 5 (1279 reviews)",
@@ -685,6 +691,7 @@
       "img": "images/london.jpg",
       "attractions": [
         {
+          "id": 1,
           "place": "Arsenal FC Museum and Stadium Tour",
           "price": 300,
           "review": "4.9 / 5 (3000 reviews)",
@@ -718,6 +725,7 @@
           ]
         },
         {
+          "id": 2,
           "place": "Admission to the London Eye",
           "price": 250,
           "review": "4.5 / 5 (1200 reviews)", 
@@ -751,6 +759,7 @@
           ]
         },
         {
+          "id": 3,
           "place": "Tower Bridge of London Tour",
           "price": 280,
           "review": "4 / 5 (1250 reviews)",
