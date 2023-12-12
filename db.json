@@ -435,6 +435,8 @@
       "id": "1",
       "title": "Montmartre, France",
       "name": "France",
+      "price": 100,
+      "rating": "4.3 / 5",
       "tour": 454,
       "nature": 350,
       "museum": 263,
@@ -546,15 +548,15 @@
             }
           ]
         }
-      ],
-      "price": 100,
-      "rating": "4.3 / 5"
+      ]
     },
     {
       "id": "2",
       "title": "Istanbul, Turkey",
       "name": "Istanbul",
-       "tour": 354,
+      "price": 150,
+      "rating": "4.3 / 5",
+      "tour": 354,
       "nature": 300,
       "museum": 163,
       "entertainment": 108,
@@ -670,6 +672,8 @@
       "id": "3",
       "title": "London, UK",
       "name": "London",
+      "price": 250,
+      "rating": "4.9 / 5",
        "tour": 531,
       "nature": 315,
       "museum": 269,
