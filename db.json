@@ -445,7 +445,7 @@
       "workshop": 26,
       "rental": 3,
       "description": "Visiting the best tourist areas chosen by the audience",
-      "img": "images/montmartre.jpg",
+      "img": "/images/montmartre.jpg",
       "attractions": [
         {
           "id": 1,
@@ -567,7 +567,7 @@
       "workshop": 56,
       "rental": 13,
       "description": "One of our best-selling tours to Turkey and visiting its region...",
-      "img": "images/turkey.jpg",
+      "img": "/images/turkey.jpg",
       "attractions": [
         {
           "id": 1,
@@ -688,7 +688,7 @@
       "workshop": 7,
       "rental": 7,
       "description": "London is one of the most beautiful places to visit that...",
-      "img": "images/london.jpg",
+      "img": "/images/london.jpg",
       "attractions": [
         {
           "id": 1,
