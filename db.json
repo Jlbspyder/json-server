@@ -450,6 +450,7 @@
         {
           "id": 1,
           "place": "Louvre Museum",
+          "name": "Paris",
           "price": 280,
           "review": "4.5 / 5 (1000 reviews)",
           "duration": "60 minutes",
@@ -485,6 +486,7 @@
         {
           "id": 2,
           "place": "Admission to Disneyland Paris",
+          "name": "Paris",
           "price": 200,
           "review": "4.8 / 5 (1500 reviews)",
           "duration": "2 hours",
@@ -521,6 +523,7 @@
         {
           "id": 3,
           "place": "Seine River Cruise",
+          "name": "Paris",
           "price": 100,
           "review": "3.5 / 5 (900 reviews)", 
           "duration": "60 minutes",
@@ -575,6 +578,7 @@
         {
           "id": 1,
           "place": "Basilica Cistern",
+          "name": "Istanbul",
           "price": 200,
           "review": "4.5 / 5 (1800 reviews)", 
           "duration": "1 hour 30 minutes",
@@ -609,6 +613,7 @@
         {
           "id": 2,
           "place": "Bosphorus and Golden Horn Cruise",
+          "name": "Istanbul",
           "price": 150,
           "review": "3.8 / 5 (1200 reviews)", 
           "safety": "Suitable for all fitness levels",
@@ -644,6 +649,7 @@
         {
           "id": 3,
           "place": "Cappadocia Hot Air Balloon Ride / Turquaz Flight",
+          "name": "Cappadocia",
           "price": 170,
           "review": "5 / 5 (1279 reviews)",
           "safety": "Requires a moderate level of physical fitness",
@@ -697,6 +703,7 @@
         {
           "id": 1,
           "place": "Arsenal FC Museum and Stadium Tour",
+          "name": "London",
           "price": 300,
           "review": "4.9 / 5 (3000 reviews)",
           "duration": "120 minutes",
@@ -731,6 +738,7 @@
         {
           "id": 2,
           "place": "Admission to the London Eye",
+          "name": "London",
           "price": 250,
           "review": "4.5 / 5 (1200 reviews)", 
           "duration": "60 minutes",
@@ -766,6 +774,7 @@
         {
           "id": 3,
           "place": "Tower Bridge of London Tour",
+          "name": "London",
           "price": 280,
           "review": "4 / 5 (1250 reviews)",
           "accessibility": "Public transport links nearby",
